@@ -3,4 +3,4 @@ Bird Command Line, for bird freedom.
 ## License
 GPL-3.0-or-later
 ## Author
-VanyaXCD <GGMAN128@yandex.ru>
+XCD <GGMAN128@yandex.ru>
