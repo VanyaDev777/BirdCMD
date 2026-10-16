@@ -1,5 +1,6 @@
 # BirdCMD
 Bird Command Line, for bird freedom.
 ## License
-|
-+--GPL-3.0-or-later
+GPL-3.0-or-later
+## Author
+VanyaXCD <GGMAN128@yandex.ru>
